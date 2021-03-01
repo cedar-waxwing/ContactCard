@@ -1,0 +1,24 @@
+.card-noborder  {
+    border: none
+}
+
+.card {
+    opacity: 0.9;
+}
+
+.background {
+    background-image: url("../Images/background-image.jpeg");
+}
+
+svg:hover path, svg:hover polygon {
+    fill: orange;
+}
+
+.rcorners {
+    border-radius: 25px;
+}
+
+.profile:hover { 
+    opacity: 50%;
+    background-color: orange;
+}
